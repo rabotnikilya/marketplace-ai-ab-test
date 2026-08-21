@@ -2,4 +2,5 @@
 .idea/
 __pycache__/
 .ipynb_checkpoints/
-data/raw/
+data/*
+!data/README.md
